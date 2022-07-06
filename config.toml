@@ -21,7 +21,7 @@ title = "Shell"
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "Seti"
+  scheme = "Warm Neon"
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
   # [userName]@[pcName]:~/[workDir]$ cat [profile]
@@ -68,10 +68,11 @@ title = "Shell"
 
   [Params.Tree]
   use = true
-  folderName = "my_nonsense"
+  folderName = "nonsense"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Drums", "https://thegary.com/"],
+    ["omg.lol", "https://anthonycastaneda.omg.lol"],
     ["GitHub", "https://github.com/anthonycastaneda"],
     ["Docusaurus", "https://docs.anthonycastaneda.com"],
     ["SysAdmin", "https://www.linkedin.com/in/anthonydcastaneda/"],

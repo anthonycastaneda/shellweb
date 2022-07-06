@@ -21,7 +21,7 @@ title = "Shell"
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "Warm Neon"
+  scheme = "WarmNeon"
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
   # [userName]@[pcName]:~/[workDir]$ cat [profile]

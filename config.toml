@@ -60,8 +60,8 @@ title = "Shell"
   description = """
   
 - 🔐 I currently work with ADFS, authentication, and SSO in general for a day job
-- 🌱 I’m currently learning Node.js and whichever framework they come up with next  (nuxt?)
-- 🤔 I’m looking for help with beginner web development and JavaScript
+- 🌱 I’m learning animation and 3D modeling because my son is obsessed and I know nothing about it
+- 🤔 I’m looking for a group of musicians in Huntsville, Texas
 - 🐍 Should I learn Python?
 - 💬 Ask me about drumming, PowerShell, history
 - ✨ Pronouns: He / Him
@@ -77,7 +77,7 @@ title = "Shell"
   folderName = "nonsense"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Drums", "https://thegary.com/"],
+    ["Drums", "https://music.apple.com/us/artist/blue-kabuki/398107889"],
     ["omg.lol", "https://anthonycastaneda.omg.lol"],
     ["GitHub", "https://github.com/anthonycastaneda"],
     ["Docusaurus", "https://docs.anthonycastaneda.com"],

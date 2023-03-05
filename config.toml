@@ -35,8 +35,8 @@ title = "Shell"
   # Note: result of the tree command
   userName = "anthonyc"
   pcName = "laptop"
-  workDir = "Documents"
-  profile = "profile.txt"
+  workDir = "~"
+  profile = "MyInfo.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -60,11 +60,15 @@ title = "Shell"
   description = """
   
 - 🔐 I currently work with ADFS, authentication, and SSO in general for a day job
+
 - 🌱 I’m learning animation and 3D modeling because my son is obsessed and I know nothing about it
-- 🤔 I’m looking for a group of musicians in Huntsville, Texas
-- 🐍 Should I learn Python?
+
+- 🤔 I’m looking for a group of musicians in Huntsville, Texas that need a drummer 
+
 - 💬 Ask me about drumming, PowerShell, history
+
 - ✨ Pronouns: He / Him
+
 - 🌊 Fun fact: I have a mild case of thalassophobia
   
   """

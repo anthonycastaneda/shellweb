@@ -21,7 +21,7 @@ title = "Shell"
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "WarmNeon"
+  scheme = "shell-ubuntu"
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
   # [userName]@[pcName]:~/[workDir]$ cat [profile]
@@ -35,7 +35,7 @@ title = "Shell"
   # Note: result of the tree command
   userName = "anthonyc"
   pcName = "laptop"
-  workDir = "~"
+  workDir = "docs"
   profile = "MyInfo.txt"
 
   # Note: speed at which text is displayed on the terminal

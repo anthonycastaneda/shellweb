@@ -11,7 +11,7 @@ use = false
 
 [Params.Extensions]
 use = true
-ext = ".txt" # extension to add after single page
+ext = ".md" # extension to add after single page
 # Additions stop here
 
 # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
@@ -36,7 +36,7 @@ scheme = "shell-ubuntu"
 userName = "anthonyc"
 pcName = "laptop"
 workDir = "docs"
-profile = "MyInfo.txt"
+profile = "MyInfo.md"
 
 # Note: speed at which text is displayed on the terminal
 # Note: if set to 0, typing animation will be disabled
@@ -57,23 +57,8 @@ contentDelay = 5 # content speed : content in .md file
 
 # activityDelay = 5 : deprecated
 
-description = """
-  
-- 🔐 I currently work with ADFS, SAML, Oauth2 
-     and SSO in general for a day job
+description = "description.md"
 
-- 🌱 I'm teaching my sons how to Google
-
-- 🥁 I'm looking for a group of musicians in 
-     East Texas that need a drummer 
-
-- 💬 Ask me about Drumming, PowerShell, history
-
-- ✨ Pronouns: He / Him
-
-- 🌊 Fun fact: I have a mild case of thalassophobia
-  
-  """
 # Note: If you want to use a Markdown file, you can use the following
 # description = "/description.md"
 # Note: and put the description.md in /content/description.md

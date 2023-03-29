@@ -59,14 +59,13 @@ contentDelay = 5 # content speed : content in .md file
 
 description = """
   
-- 🔐 I currently work with ADFS, authentication, 
+- 🔐 I currently work with ADFS, SAML, Oauth2 
      and SSO in general for a day job
 
-- 🌱 I'm learning animation and 3D modeling because my son
-     is obsessed and I know nothing about it
+- 🌱 I'm teaching my sons how to Google
 
 - 🥁 I'm looking for a group of musicians in 
-     Huntsville, Texas that need a drummer 
+     East Texas that need a drummer 
 
 - 💬 Ask me about Drumming, PowerShell, history
 
@@ -81,7 +80,7 @@ description = """
 
 [Params.Tree]
 use = true
-folderName = "nonsense"
+folderName = "links"
 # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
 files = [
     [
@@ -89,8 +88,8 @@ files = [
         "https://music.apple.com/us/artist/blue-kabuki/398107889",
     ],
     [
-        "omg.lol",
-        "https://anthonycastaneda.omg.lol",
+        "ADFS RelayState Generator",
+        "https://anthonycastaneda.github.io/RelayState_Generator",
     ],
     [
         "GitHub",

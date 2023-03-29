@@ -13,6 +13,3 @@
 - ✨ Pronouns: He / Him
 
 - 🌊 Fun fact: I have a mild case of thalassophobia
-
-![snakey](https://raw.githubusercontent.com/anthonycastaneda/shellweb/output/snake.svg?sanitize=true)
-<img src="https://raw.githubusercontent.com/anthonycastaneda/shellweb/output/snake.svg?sanitize=true">

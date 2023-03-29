@@ -14,4 +14,4 @@
 
 - 🌊 Fun fact: I have a mild case of thalassophobia
 
-![https://raw.githubusercontent.com/anthonycastaneda/shellweb/606540a4514fd466dcd214cff47601f73bb400f7/snake.svg]
+![snakey](https://raw.githubusercontent.com/anthonycastaneda/shellweb/606540a4514fd466dcd214cff47601f73bb400f7/snake.svg)
